@@ -1,2 +1,4 @@
 # gen-tech-tren
-<!-- nadzeya sukhikh -->
+- Nadzeya Sukhikh
+- Ivan Bukrieiev
+- Andrei Bakhtinov
